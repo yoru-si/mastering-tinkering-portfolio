@@ -1,5 +1,7 @@
 +++
 date = '2026-02-09T00:13:28+01:00'
-draft = true
-title = 'Posts'
+draft = false
+title = 'Logs'
+description = 'A regular record of activites done'
 +++
+## Find the activities below here:

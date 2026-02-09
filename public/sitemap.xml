@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/mastering-tinkering-portfolio/posts/</loc>
+    <lastmod>2026-02-09T00:13:28+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/mastering-tinkering-portfolio/posts/week_1/</loc>
+    <lastmod>2026-02-09T00:12:24+01:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/mastering-tinkering-portfolio/</loc>
     <lastmod>2026-02-09T00:07:59+01:00</lastmod>
     <changefreq>daily</changefreq>
