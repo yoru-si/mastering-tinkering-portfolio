@@ -43,7 +43,7 @@ tags = ['spaces','tinkering','photos']
     <div style="width: 48%;">
         <h3>A Welder's Workshop</h3>
         <p>
-           He welds several 'jobs' a day, usually the same job the every other day, but was well prepared to handle our out of the ordinary weld job. 
+           He welds several 'jobs' a day, usually the same job the every other day, but was well prepared to handle our out of the ordinary weld job.  
         </p>
     </div>
     <div style="width: 48%;">
@@ -72,4 +72,14 @@ tags = ['spaces','tinkering','photos']
         <img src="ws_9.jpeg" style="width: 100%; border-radius: 10px;">
     </div>
 </div>
-
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 40px;">
+    <div style="width: 48%;">
+        <img src="ws_10.jpeg" style="width: 100%; border-radius: 10px;">
+    </div>
+    <div style="width: 48%;">
+        <h3>The Digital Workspace</h3>
+        <p>
+            A form of digital tinkering where I try to make the most of my poor laptop. The flexibility of the linux environment is exploited to introduce and tinker around various features.
+        </p>
+    </div>
+</div>
