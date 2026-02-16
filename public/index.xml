@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mastering Tinkering Portfolio</title>
-    <link>http://localhost:1313/mastering-tinkering-portfolio/</link>
+    <link>https://yoru-si.github.io/mastering-tinkering-portfolio/</link>
     <description>Recent content on Mastering Tinkering Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>s.srinivasan-1@student.utwente.nl (Srikrishnan Srinivasan)</managingEditor>
     <webMaster>s.srinivasan-1@student.utwente.nl (Srikrishnan Srinivasan)</webMaster>
     <copyright>© 2026 Srikrishnan Srinivasan</copyright>
-    <lastBuildDate>Sun, 08 Feb 2026 23:53:52 +0100</lastBuildDate><atom:link href="http://localhost:1313/mastering-tinkering-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Feb 2026 23:53:52 +0100</lastBuildDate><atom:link href="https://yoru-si.github.io/mastering-tinkering-portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>2.1 Design a Building Block</title>
-      <link>http://localhost:1313/mastering-tinkering-portfolio/posts/w2.1/</link>
+      <link>https://yoru-si.github.io/mastering-tinkering-portfolio/posts/w2.1/</link>
       <pubDate>Sun, 08 Feb 2026 23:53:52 +0100</pubDate>
       <author>s.srinivasan-1@student.utwente.nl (Srikrishnan Srinivasan)</author>
-      <guid>http://localhost:1313/mastering-tinkering-portfolio/posts/w2.1/</guid>
+      <guid>https://yoru-si.github.io/mastering-tinkering-portfolio/posts/w2.1/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>1.1 Tinkering Spaces - Photo Safari</title>
-      <link>http://localhost:1313/mastering-tinkering-portfolio/posts/week_1/</link>
+      <link>https://yoru-si.github.io/mastering-tinkering-portfolio/posts/week_1/</link>
       <pubDate>Sun, 08 Feb 2026 00:12:24 +0100</pubDate>
       <author>s.srinivasan-1@student.utwente.nl (Srikrishnan Srinivasan)</author>
-      <guid>http://localhost:1313/mastering-tinkering-portfolio/posts/week_1/</guid>
+      <guid>https://yoru-si.github.io/mastering-tinkering-portfolio/posts/week_1/</guid>
       <description></description>
       
     </item>

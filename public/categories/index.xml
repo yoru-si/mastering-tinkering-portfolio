@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mastering Tinkering Portfolio</title>
-    <link>http://localhost:1313/mastering-tinkering-portfolio/categories/</link>
+    <link>https://yoru-si.github.io/mastering-tinkering-portfolio/categories/</link>
     <description>Recent content in Categories on Mastering Tinkering Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>s.srinivasan-1@student.utwente.nl (Srikrishnan Srinivasan)</managingEditor>
     <webMaster>s.srinivasan-1@student.utwente.nl (Srikrishnan Srinivasan)</webMaster>
     <copyright>© 2026 Srikrishnan Srinivasan</copyright>
-    <atom:link href="http://localhost:1313/mastering-tinkering-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yoru-si.github.io/mastering-tinkering-portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
